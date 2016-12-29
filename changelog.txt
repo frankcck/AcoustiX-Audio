@@ -1,0 +1,4 @@
+AcoustiX Audio v31:
+- AcoustiX Cinematic: slight tuning/improvements for overall balanced sound
+- AcoustiX Lite: Completely re-tuned (on Mi Hybrid Dual Driver Earphones)
+- AcoustiX Pro: slight tuning again for HTC Hi Res earphones
